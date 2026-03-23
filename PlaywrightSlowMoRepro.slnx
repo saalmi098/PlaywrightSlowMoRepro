@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="tests.runsettings" />
+  </Folder>
   <Project Path="PlaywrightSlowMoRepro.Tests/PlaywrightSlowMoRepro.Tests.csproj" />
 </Solution>
